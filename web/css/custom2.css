@@ -1,0 +1,17 @@
+.navbar-header
+{
+    align-content: center;
+}
+
+#githubImg
+{
+    padding-top: 	5px;
+    padding-bottom: 5px;
+    max-width: 		10%;
+    height:			auto;
+}
+
+.titre, .auteur
+{
+    word-break: break-all;
+}

@@ -1,0 +1,29 @@
+#repoImg
+{
+    max-width : 70%;
+    height    : auto;
+}
+
+#githubImg
+{
+    padding-top: 	5px;
+    padding-bottom: 5px;
+    max-width: 		10%;
+    height:			auto;
+}
+
+.avatar
+{
+    padding-top: 	5px;
+    padding-bottom: 5px;
+    max-width: 		50%;
+    height:			auto;
+}
+
+.wrapper
+{
+    border-radius: 3px;
+    border: solid grey 2px;
+    overflow: scroll;
+    height: 200px;
+}
